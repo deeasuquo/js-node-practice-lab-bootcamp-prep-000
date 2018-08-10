@@ -1,5 +1,3 @@
-// write your code below!
-
 var name = "Dorcas"
 var height = 74
 
